@@ -5,7 +5,7 @@
 ### Description
 Allows for printer control for either power or enable /disable
 
-- Version: 0.0.4
+- Version: 0.0.5
 - Author: mjlill
 - Maintainers:
   - maxbachmann
