@@ -2,7 +2,7 @@
 	"gpioPin": {
 		"defaultValue": 27,
 		"dataType": "integer",
-		"isSensitve": false,
+		"isSensitive": false,
 		"description": "Gpio pin to use"
 	}
 }
