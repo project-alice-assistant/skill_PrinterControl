@@ -1,7 +1,7 @@
 {
 	"name": "PrinterControl",
 	"version": "0.0.5",
-	"icon": "fab fa-battle-net",
+	"icon": "fas fa-print",
 	"category": "automation",
 	"author": "mjlill",
 	"maintainers": [
