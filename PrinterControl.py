@@ -26,7 +26,7 @@ class PrinterControl(AliceSkill):
 		if gpioPin:
 			self._gpioPin = int(gpioPin)
 		else:
-			raise SkillStartingFailed('Failed fetching gpio pin definition')
+			raise SkillStartingFailed(skillName=self.name, error='Failed fetching gpio pin definition')
 
 		GPIO.setmode(GPIO.BCM)
 		GPIO.setwarnings(False)
