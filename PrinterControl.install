@@ -1,11 +1,12 @@
 {
 	"name": "PrinterControl",
-	"version": "0.0.5",
+	"version": "1.0.0",
 	"icon": "fas fa-print",
 	"category": "automation",
 	"author": "mjlill",
 	"maintainers": [
-		"maxbachmann"
+		"maxbachmann",
+		"Psychokiller1888"
 	],
 	"desc": "Printer on / off control",
 	"aliceMinVersion": "1.0.0-a4",
