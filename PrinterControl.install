@@ -1,6 +1,6 @@
 {
     "name": "PrinterControl",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "icon": "fas fa-print",
     "category": "automation",
     "author": "mjlill",
